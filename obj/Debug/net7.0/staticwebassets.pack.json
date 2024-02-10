@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/images/classroom.jpg"
     },
     {
+      "Id": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/images/math.jpg",
+      "PackagePath": "staticwebassets/images/math.jpg"
+    },
+    {
       "Id": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

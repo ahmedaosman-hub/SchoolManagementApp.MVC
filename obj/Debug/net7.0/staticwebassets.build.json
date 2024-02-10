@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TUVVv/rPAuob2bYv8tXhuXXKl/5WZ5q7RIeTLo6iylE=",
+  "Hash": "7t9/PeehrpewqE0ajdHf6JQlzGvTkgShbV5tUiVLyI0=",
   "Source": "SchoolManagementApp.MVC",
   "BasePath": "_content/SchoolManagementApp.MVC",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/classroom.jpg"
+    },
+    {
+      "Identity": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/images/math.jpg",
+      "SourceId": "SchoolManagementApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/",
+      "BasePath": "_content/SchoolManagementApp.MVC",
+      "RelativePath": "images/math.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/math.jpg"
     },
     {
       "Identity": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/js/site.js",

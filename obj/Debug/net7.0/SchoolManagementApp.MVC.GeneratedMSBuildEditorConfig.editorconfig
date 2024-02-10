@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C\#/SchoolManagementApp.MVC/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C\#/SchoolManagementApp.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

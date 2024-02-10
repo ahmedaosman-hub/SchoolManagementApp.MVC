@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets/SchoolManagementApp.MVC.bundle.scp.css"
     },
     {
+      "Id": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/images/classroom.jpg",
+      "PackagePath": "staticwebassets/images/classroom.jpg"
     },
     {
       "Id": "/Users/ahmedosman/Library/Mobile Documents/com~apple~CloudDocs/Personal Development/Code/C#/SchoolManagementApp.MVC/wwwroot/js/site.js",
